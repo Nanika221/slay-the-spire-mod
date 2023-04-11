@@ -1,0 +1,16 @@
+{
+  "MagicHat": {
+    "NAME": "魔法帽",
+    "FLAVOR": "运转停不下来",
+    "DESCRIPTIONS": [
+      "每打出两张技能牌，抽一张牌"
+    ]
+  },
+  "IdolEardrop": {
+    "NAME": "偶像耳坠",
+    "FLAVOR": "引人注目，但是柔弱",
+    "DESCRIPTIONS": [
+      "根据房间中怪物数量抽牌、增加能量，减少相应力量"
+    ]
+  }
+}

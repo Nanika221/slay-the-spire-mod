@@ -1,0 +1,13 @@
+{
+  "modid": "my_firstmod",
+  "name": "FirstMod",
+  "author_list": [
+    "这是第一个mod"
+  ],
+  "description": "add changes",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "04-11-2023"
+}
